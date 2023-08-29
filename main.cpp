@@ -56,8 +56,5 @@ int main()
 
     outFile.close();
 
-    if(1+1==2){
-        cout << "Hola" << endl;
-    }
     return 0;
 }
